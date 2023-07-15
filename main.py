@@ -1,9 +1,3 @@
-# Online Python compiler (interpreter) to run Python online.
-# Write Python 3 code in this online editor and run it.
-# Get started with interactive Python!
-# Supports Python Modules: builtins, math,pandas, scipy 
-# matplotlib.pyplot, numpy, operator, processing, pygal, random, 
-# re, string, time, turtle, urllib.request
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
